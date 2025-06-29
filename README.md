@@ -11,7 +11,7 @@
   - **Instructors**: View assigned labs, schedule approved reschedules, update attendance  
   - **Admins**: Oversee all schedules & requests, generate logs  
 - 📅 **Dynamic Scheduling**  
-  - AJAX-powered semester→subject filtering  
+  - Semester→subject filtering  
   - Course code as the primary identifier  
 - 🔄 **Multi-Stage Approval Workflow**  
   - Student submits request + uploads document  
