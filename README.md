@@ -14,10 +14,10 @@
   - AJAX-powered semester→subject filtering  
   - Course code as the primary identifier  
 - 🔄 **Multi-Stage Approval Workflow**  
-  1. Student submits request + uploads document  
-  2. Admin approves/rejects & assigns coordinator  
-  3. Coordinator forwards/rejects & assigns instructor  
-  4. Instructor schedules new session 
+  - Student submits request + uploads document  
+  - Admin approves/rejects & assigns coordinator  
+  - Coordinator forwards/rejects & assigns instructor  
+  - Instructor schedules new session 
 - 📝 **Attendance Module** with present/absent tracking  
 - ⚡ **Responsive & Modern UI** (Bootstrap 5 + custom styles)  
 - 🔒 **Secure File Uploads** & prepared statements  
