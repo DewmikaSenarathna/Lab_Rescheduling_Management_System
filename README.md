@@ -41,12 +41,13 @@ lab_rescheduling/
 ├── assets/
 │   ├── css/
 │   │   └── styles.css
+│   ├── img/
+│   │   └── full-bg.jpg
 │   ├── js/
 │   │   └── scripts.js
 │   └── uploads/
 ├── includes/
 │   ├── db.php
-│   ├── mail.php
 │   ├── authenticate.php
 │   ├── save_details.php
 │   └── logout.php
@@ -74,7 +75,10 @@ lab_rescheduling/
 │   ├── process_review.php
 │   ├── attendance.php
 │   ├── update_attendance.php
-│   └── delete_attendance.php
+│   ├── delete_attendance.php
+│   ├── attendance.php
+│   ├── update_reschedule_schedule
+│   └── reschedule_schedule.php
 ├── config.php
 └── lab_rescheduling.sql
 ```
